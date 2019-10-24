@@ -150,7 +150,7 @@
   const stylesConfig = {
 
     taskName         : 'Styles',
-    src         : dir.src + 'scss/main.scss',
+    src         : dir.src + 'scss/styles.scss',
     watch       : dir.src + 'scss/**/*',
     build       : dir.build + 'css/',
     sassOpts: {
