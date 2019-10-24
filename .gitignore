@@ -1,0 +1,5 @@
+/htdocs/**/*
+/node_modules/**/*
+/src/**/*
+/templates/**/*
+/package-lock.json
